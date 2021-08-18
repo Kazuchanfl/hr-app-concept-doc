@@ -1,4 +1,4 @@
-# Key Concepts
+# Concepts
 
 The concepts presented below capture corporate activities and organizations at various scales, and are necessary elements for achieving human resource and organizational growth. This application provides functions to achieve various goals in these concepts.
 

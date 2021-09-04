@@ -2,4 +2,4 @@
 
 This is GitHub page of HR App concept project!
 
-- [Concepts](/concepts/README.md)
+- [Concepts](/concepts)

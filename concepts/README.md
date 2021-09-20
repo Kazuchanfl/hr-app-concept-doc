@@ -22,3 +22,9 @@ It is a definition of how you want to act based on the direction required by the
 ## Activity
 
 Actions taken by people to achieve a goal. The purpose is to make them reaffirm their direction by learning about their daily efforts.
+
+## Feedback
+
+Feedback is information that is used to share the members' efforts and the leader's evaluation of them.
+
+It is not the end of the process after being written by the leader, but the members are expected to be proactively involved in the evaluation activities to improve their future efforts.

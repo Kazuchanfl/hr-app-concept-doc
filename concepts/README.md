@@ -32,3 +32,9 @@ Actions taken by people to achieve a goal. The purpose is to make them reaffirm 
 Feedback is information that is used to share the members' efforts and the leader's evaluation of them.
 
 It is not the end of the process after being written by the leader, but the members are expected to be proactively involved in the evaluation activities to improve their future efforts.
+
+## Assessment
+
+Assessment is information that helps managers, who are in a more senior position, understand the series of initiatives and communication processes of members and leaders.
+
+Not only can managers influence decisions on the treatment of members and leaders by providing information to the HR team, but they can also update the evaluation cycle by reviewing Value by managers.

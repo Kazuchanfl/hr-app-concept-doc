@@ -2,13 +2,17 @@
 
 <img src="img/Workflow Overview.png">
 
-The concepts presented below capture corporate activities and organizations at various scales, and are necessary elements for achieving human resource and organizational growth. This application provides functions to achieve various goals in these concepts.
+The concepts presented below capture corporate activities and organizations at various scales, and are necessary elements for achieving human resource and organizational growth. 
+
+This application provides functions to achieve various goals in these concepts.
 
 **\*The following concepts may be increased or decreased.**
 
 ## Mission
 
-A clear statement of the world that a company or organization is trying to create through its activities. It defines what entities of various scales, such as companies, teams, and individuals, want to achieve together.
+A clear statement of the world that a company or organization is trying to create through its activities.
+
+It defines what entities of various scales, such as companies, teams, and individuals, want to achieve together.
 
 ## Value
 
